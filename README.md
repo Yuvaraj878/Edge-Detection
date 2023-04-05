@@ -104,13 +104,17 @@ plt.show()
 ```
 ## Output:
 ### ORIGINAL IMAGE
-
+![](./car.jpg)
+###  Convert to grayscale and remove noise
+![](./1st.png)
 ### SOBEL EDGE DETECTOR
-
+![](./2nd.png)
+![](./3rd.png)
+![](./4th.png)
 ### LAPLACIAN EDGE DETECTOR
-
+![](./5th%5D.png)
 
 ### CANNY EDGE DETECTOR
-
+![](./6th.png)
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
